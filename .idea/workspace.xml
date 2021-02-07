@@ -69,16 +69,34 @@
         <entry file="file://$PROJECT_DIR$/src/leet/code/Solution480.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leet/code/Solution643.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/leet/code/Solution643.java">
+        <entry file="file://$PROJECT_DIR$/src/leet/code/Solution665.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+            <state relative-caret-position="464">
+              <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leet/code/Solution1208.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -128,6 +146,8 @@
         <option value="$PROJECT_DIR$/src/leet/code/Solution724.java" />
         <option value="$PROJECT_DIR$/src/leet/code/Solution480.java" />
         <option value="$PROJECT_DIR$/src/leet/code/Solution643.java" />
+        <option value="$PROJECT_DIR$/src/leet/code/Solution1208.java" />
+        <option value="$PROJECT_DIR$/src/leet/code/Solution665.java" />
       </list>
     </option>
   </component>
@@ -149,6 +169,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -185,7 +206,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -223,22 +243,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Solution480.test">
+  <component name="RunManager" selected="JUnit.Solution665.test">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leet.code.Solution" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leet.code.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leet.code.Solution2" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -295,13 +302,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution665.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leet.code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leet.code" />
+      <option name="MAIN_CLASS_NAME" value="leet.code.Solution665" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Solution665.test" />
         <item itemvalue="JUnit.Solution480.test" />
         <item itemvalue="JUnit.Solution628.test" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.ThreadPractice" />
-        <item itemvalue="Application.Solution2" />
       </list>
     </recent_temporary>
   </component>
@@ -448,7 +471,9 @@
       <workItem from="1611108804475" duration="1629000" />
       <workItem from="1611799787076" duration="1612000" />
       <workItem from="1612318108798" duration="3803000" />
-      <workItem from="1612418819961" duration="900000" />
+      <workItem from="1612418819961" duration="1563000" />
+      <workItem from="1612503922121" duration="3019000" />
+      <workItem from="1612681843144" duration="2465000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode724-简单题">
       <created>1611801171977</created>
@@ -457,43 +482,50 @@
       <option name="project" value="LOCAL" />
       <updated>1611801171977</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="leetcode643/480">
+      <created>1612419761936</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612419761936</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Solution628_test - 2021.01.20 at 10h 30m 04s.xml">
-      <configuration name="Solution628.test" configurationId="JUnit" />
+    <history-entry file="Solution665_test - 2021.02.07 at 15h 56m 59s.xml">
+      <configuration name="Solution665.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution628_test - 2021.01.20 at 10h 30m 12s.xml">
-      <configuration name="Solution628.test" configurationId="JUnit" />
+    <history-entry file="Solution665_test - 2021.02.07 at 15h 57m 00s.xml">
+      <configuration name="Solution665.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution480_test - 2021.02.03 at 10h 54m 35s.xml">
-      <configuration name="Solution480.test" configurationId="JUnit" />
+    <history-entry file="Solution665_test - 2021.02.07 at 15h 57m 03s.xml">
+      <configuration name="Solution665.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution480_test - 2021.02.03 at 10h 55m 02s.xml">
-      <configuration name="Solution480.test" configurationId="JUnit" />
+    <history-entry file="Solution665_test - 2021.02.07 at 15h 57m 12s.xml">
+      <configuration name="Solution665.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution480_test - 2021.02.03 at 10h 55m 15s.xml">
-      <configuration name="Solution480.test" configurationId="JUnit" />
+    <history-entry file="Solution665_test - 2021.02.07 at 15h 57m 17s.xml">
+      <configuration name="Solution665.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution480_test - 2021.02.03 at 10h 55m 49s.xml">
-      <configuration name="Solution480.test" configurationId="JUnit" />
+    <history-entry file="Solution665_test - 2021.02.07 at 15h 57m 31s.xml">
+      <configuration name="Solution665.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution480_test - 2021.02.03 at 10h 56m 23s.xml">
-      <configuration name="Solution480.test" configurationId="JUnit" />
+    <history-entry file="Solution665_test - 2021.02.07 at 16h 03m 45s.xml">
+      <configuration name="Solution665.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution480_test - 2021.02.03 at 10h 57m 49s.xml">
-      <configuration name="Solution480.test" configurationId="JUnit" />
+    <history-entry file="Solution665_test - 2021.02.07 at 16h 04m 11s.xml">
+      <configuration name="Solution665.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution480_test - 2021.02.03 at 10h 58m 09s.xml">
-      <configuration name="Solution480.test" configurationId="JUnit" />
+    <history-entry file="Solution665_test - 2021.02.07 at 16h 04m 54s.xml">
+      <configuration name="Solution665.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution480_test - 2021.02.03 at 10h 58m 29s.xml">
-      <configuration name="Solution480.test" configurationId="JUnit" />
+    <history-entry file="Solution665_test - 2021.02.07 at 16h 07m 51s.xml">
+      <configuration name="Solution665.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="313213000" />
+    <option name="totallyTimeSpent" value="319360000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -508,7 +540,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.17910448" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.14498934" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="JRebel" order="3" sideWeight="0.50139666" side_tool="true" weight="0.16950959" />
@@ -518,17 +550,17 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.2559653" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989339" weight="0.2527115" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.3167028" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989339" weight="0.34164858" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.40411702" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.20065077" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5010661" side_tool="true" weight="0.25135428" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32936078" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.329718" />
       <window_info anchor="bottom" id="JRebel Executor" order="13" />
       <window_info anchor="bottom" id="JRebel Console" order="14" sideWeight="0.50053304" side_tool="true" weight="0.39111593" />
       <window_info anchor="bottom" id="MyBatis Log" order="15" />
@@ -549,7 +581,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="leetcode724-简单题" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode724-简单题" />
+    <MESSAGE value="leetcode643/480" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode643/480" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LeetCode$Solution.ic" NAME="Solution Coverage Results" MODIFIED="1601366026644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -692,6 +725,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/leet/code/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/leet/code/Solution628.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -710,27 +753,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leet/code/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leet/code/Solution480.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leet/code/Solution1208.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leet/code/Solution643.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        <state relative-caret-position="391">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leet/code/Solution665.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
         </state>
       </provider>
     </entry>
