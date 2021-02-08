@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/leet/code/Solution978.java" description="        }&#10;        if(temp&gt;max1){&#10;            max1 ..." line="0" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="8a8dffab-a6ec-4a57-8c76-a04318e90451" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -83,20 +86,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leet/code/Solution665.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
-              <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+            <state relative-caret-position="459">
+              <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leet/code/Solution1208.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leet/code/Solution978.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="867">
+              <caret line="51" column="42" lean-forward="true" selection-start-line="51" selection-start-column="42" selection-end-line="51" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -121,6 +124,7 @@
       <find>typed.length()</find>
       <find>charAt</find>
       <find>length</find>
+      <find>max1</find>
     </findStrings>
     <replaceStrings>
       <replace>from</replace>
@@ -148,6 +152,7 @@
         <option value="$PROJECT_DIR$/src/leet/code/Solution643.java" />
         <option value="$PROJECT_DIR$/src/leet/code/Solution1208.java" />
         <option value="$PROJECT_DIR$/src/leet/code/Solution665.java" />
+        <option value="$PROJECT_DIR$/src/leet/code/Solution978.java" />
       </list>
     </option>
   </component>
@@ -169,8 +174,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -206,6 +209,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -229,7 +234,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -243,26 +248,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Solution665.test">
+  <component name="RunManager" selected="JUnit.Solution978.test">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leet.code.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="leet.code.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreadPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thread.ThreadPractice" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -318,13 +310,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution978.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leet.code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leet.code" />
+      <option name="MAIN_CLASS_NAME" value="leet.code.Solution978" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Solution978.test" />
         <item itemvalue="JUnit.Solution665.test" />
         <item itemvalue="JUnit.Solution480.test" />
         <item itemvalue="JUnit.Solution628.test" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.ThreadPractice" />
       </list>
     </recent_temporary>
   </component>
@@ -473,7 +481,8 @@
       <workItem from="1612318108798" duration="3803000" />
       <workItem from="1612418819961" duration="1563000" />
       <workItem from="1612503922121" duration="3019000" />
-      <workItem from="1612681843144" duration="2465000" />
+      <workItem from="1612681843144" duration="3740000" />
+      <workItem from="1612753914754" duration="2528000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode724-简单题">
       <created>1611801171977</created>
@@ -489,43 +498,50 @@
       <option name="project" value="LOCAL" />
       <updated>1612419761936</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="leetcode665">
+      <created>1612685533459</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1612685533459</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Solution665_test - 2021.02.07 at 15h 56m 59s.xml">
-      <configuration name="Solution665.test" configurationId="JUnit" />
+    <history-entry file="Solution978_test - 2021.02.08 at 11h 22m 15s.xml">
+      <configuration name="Solution978.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution665_test - 2021.02.07 at 15h 57m 00s.xml">
-      <configuration name="Solution665.test" configurationId="JUnit" />
+    <history-entry file="Solution978_test - 2021.02.08 at 11h 22m 28s.xml">
+      <configuration name="Solution978.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution665_test - 2021.02.07 at 15h 57m 03s.xml">
-      <configuration name="Solution665.test" configurationId="JUnit" />
+    <history-entry file="Solution978_test - 2021.02.08 at 11h 23m 27s.xml">
+      <configuration name="Solution978.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution665_test - 2021.02.07 at 15h 57m 12s.xml">
-      <configuration name="Solution665.test" configurationId="JUnit" />
+    <history-entry file="Solution978_test - 2021.02.08 at 11h 23m 36s.xml">
+      <configuration name="Solution978.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution665_test - 2021.02.07 at 15h 57m 17s.xml">
-      <configuration name="Solution665.test" configurationId="JUnit" />
+    <history-entry file="Solution978_test - 2021.02.08 at 11h 23m 46s.xml">
+      <configuration name="Solution978.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution665_test - 2021.02.07 at 15h 57m 31s.xml">
-      <configuration name="Solution665.test" configurationId="JUnit" />
+    <history-entry file="Solution978_test - 2021.02.08 at 11h 24m 29s.xml">
+      <configuration name="Solution978.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution665_test - 2021.02.07 at 16h 03m 45s.xml">
-      <configuration name="Solution665.test" configurationId="JUnit" />
+    <history-entry file="Solution978_test - 2021.02.08 at 11h 28m 11s.xml">
+      <configuration name="Solution978.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution665_test - 2021.02.07 at 16h 04m 11s.xml">
-      <configuration name="Solution665.test" configurationId="JUnit" />
+    <history-entry file="Solution978_test - 2021.02.08 at 11h 29m 08s.xml">
+      <configuration name="Solution978.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution665_test - 2021.02.07 at 16h 04m 54s.xml">
-      <configuration name="Solution665.test" configurationId="JUnit" />
+    <history-entry file="Solution978_test - 2021.02.08 at 11h 29m 50s.xml">
+      <configuration name="Solution978.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution665_test - 2021.02.07 at 16h 07m 51s.xml">
-      <configuration name="Solution665.test" configurationId="JUnit" />
+    <history-entry file="Solution978_test - 2021.02.08 at 11h 30m 32s.xml">
+      <configuration name="Solution978.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="319360000" />
+    <option name="totallyTimeSpent" value="323163000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -540,7 +556,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.14498934" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.14658849" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="JRebel" order="3" sideWeight="0.50139666" side_tool="true" weight="0.16950959" />
@@ -550,8 +566,8 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.3167028" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989339" weight="0.34164858" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.14316703" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989339" weight="0.329718" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
@@ -582,7 +598,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="leetcode724-简单题" />
     <MESSAGE value="leetcode643/480" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode643/480" />
+    <MESSAGE value="leetcode665" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode665" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LeetCode$Solution.ic" NAME="Solution Coverage Results" MODIFIED="1601366026644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -712,6 +729,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leet/code/Solution1208.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/leet/code/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="782">
@@ -760,13 +798,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leet/code/Solution1208.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leet/code/Solution643.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -774,24 +805,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leet/code/Solution665.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+        <state relative-caret-position="459">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leet/code/Solution978.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" column="42" lean-forward="true" selection-start-line="51" selection-start-column="42" selection-end-line="51" selection-end-column="42" />
         </state>
       </provider>
     </entry>
