@@ -4,8 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/src/leet/code/Solution978.java" description="        }&#10;        if(temp&gt;max1){&#10;            max1 ..." line="0" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a8dffab-a6ec-4a57-8c76-a04318e90451" name="Default Changelist" comment="">
+    <list default="true" id="8a8dffab-a6ec-4a57-8c76-a04318e90451" name="Default Changelist" comment="leetcode992超出时间限制">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leet/code/Solution992.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leet/code/Solution992.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,99 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leet/code/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="850">
-              <caret line="50" column="9" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
-              <folding>
-                <element signature="e#157#158#0" expanded="true" />
-                <element signature="e#187#188#0" expanded="true" />
-                <element signature="e#428#429#0" expanded="true" />
-                <element signature="e#458#459#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leet/code/Solution2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="867">
-              <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leet/code/Solution628.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="24" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="24" />
-              <folding>
-                <element signature="e#174#175#0" expanded="true" />
-                <element signature="e#230#231#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leet/code/Solution724.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leet/code/Solution480.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leet/code/Solution643.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leet/code/Solution665.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leet/code/Solution978.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="44" column="33" selection-start-line="44" selection-start-column="33" selection-end-line="44" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/leet/code/Solution992.java">
+        <entry file="file://$PROJECT_DIR$/src/leet/code/Solution867.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="76" column="25" selection-end-line="86" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -167,6 +80,9 @@
         <option value="$PROJECT_DIR$/src/leet/code/Solution665.java" />
         <option value="$PROJECT_DIR$/src/leet/code/Solution978.java" />
         <option value="$PROJECT_DIR$/src/leet/code/Solution992.java" />
+        <option value="$PROJECT_DIR$/src/leet/code/Solution1004.java" />
+        <option value="$PROJECT_DIR$/src/leet/code/Solution697.java" />
+        <option value="$PROJECT_DIR$/src/leet/code/Solution867.java" />
       </list>
     </option>
   </component>
@@ -188,7 +104,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -225,6 +140,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -501,7 +417,11 @@
       <workItem from="1612681843144" duration="3740000" />
       <workItem from="1612753914754" duration="3921000" />
       <workItem from="1612838307027" duration="121000" />
-      <workItem from="1612838443475" duration="1228000" />
+      <workItem from="1612838443475" duration="9407000" />
+      <workItem from="1612863275897" duration="3000" />
+      <workItem from="1613698188518" duration="11051000" />
+      <workItem from="1613807593815" duration="2381000" />
+      <workItem from="1614220970745" duration="733000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode724-简单题">
       <created>1611801171977</created>
@@ -531,16 +451,17 @@
       <option name="project" value="LOCAL" />
       <updated>1612764493521</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="leetcode992超出时间限制">
+      <created>1612839737903</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1612839737903</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Solution978_test - 2021.02.08 at 11h 28m 11s.xml">
-      <configuration name="Solution978.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Solution978_test - 2021.02.08 at 11h 29m 08s.xml">
-      <configuration name="Solution978.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Solution978_test - 2021.02.08 at 11h 29m 50s.xml">
       <configuration name="Solution978.test" configurationId="JUnit" />
     </history-entry>
@@ -565,9 +486,15 @@
     <history-entry file="Solution992_Test - 2021.02.09 at 10h 57m 59s.xml">
       <configuration name="Solution992.Test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Solution992_Test - 2021.02.09 at 11h 01m 16s.xml">
+      <configuration name="Solution992.Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Solution992_Test - 2021.02.09 at 11h 24m 30s.xml">
+      <configuration name="Solution992.Test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="325905000" />
+    <option name="totallyTimeSpent" value="348252000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -582,7 +509,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.14978679" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.15618336" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="JRebel" order="3" sideWeight="0.50139666" side_tool="true" weight="0.16950959" />
@@ -592,7 +519,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.15184382" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.14208242" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989339" weight="0.329718" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -626,7 +553,8 @@
     <MESSAGE value="leetcode643/480" />
     <MESSAGE value="leetcode665" />
     <MESSAGE value="leetcode978" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode978" />
+    <MESSAGE value="leetcode992超出时间限制" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode992超出时间限制" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LeetCode$Solution.ic" NAME="Solution Coverage Results" MODIFIED="1601366026644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -779,7 +707,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leet/code/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
+        <state relative-caret-position="782">
           <caret line="50" column="9" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
           <folding>
             <element signature="e#157#158#0" expanded="true" />
@@ -792,7 +720,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leet/code/Solution2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
+        <state relative-caret-position="833">
           <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -841,18 +769,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leet/code/Solution978.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="44" column="33" selection-start-line="44" selection-start-column="33" selection-end-line="44" selection-end-column="33" />
+        <state relative-caret-position="493">
+          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leet/code/Solution992.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="76" column="25" selection-end-line="86" />
+        <state relative-caret-position="612">
+          <caret line="41" column="34" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leet/code/Solution1004.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leet/code/Solution697.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leet/code/Solution867.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
